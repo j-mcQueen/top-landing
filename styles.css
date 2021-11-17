@@ -174,3 +174,16 @@ h3 {
     padding: 10px 30px;
     cursor: pointer;
 }
+
+/* footer */
+
+footer {
+    background-color: #1f2937;
+}
+
+.footer-text {
+    color: #f9faf8;
+    text-align: center;
+    margin: 0;
+    padding: 2%;
+}
