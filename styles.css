@@ -136,3 +136,41 @@ figcaption {
     font-size: 1.8rem;
     font-weight: bold;
 }
+
+/* section four */
+
+.four {
+    padding: 7% 20%;
+}
+
+.cta-cntr {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #3882f6;
+    padding: 4%;
+    border-radius: 10px;
+}
+
+.cta-text {
+    color: #f9faf8;
+}
+
+.cta-text p {
+    margin: 0;
+    font-size: 1.4rem;
+}
+
+h3 {
+    font-size: 1.8rem;
+    margin: 0;
+}
+
+.cta-btn {
+    background-color: inherit;
+    color: #f9faf8;
+    border: 2px solid #f9faf8;
+    border-radius: 10px;
+    padding: 10px 30px;
+    cursor: pointer;
+}
