@@ -1,6 +1,6 @@
 # landing page
 
-This project was developed as part of The Odin Project's Foundations course. Check out the [live version](https://silverwish.github.io/top-landing/) of my landing page for a template website.
+This project was developed as part of The Odin Project's Foundations course. Check out the [live version](https://j-mcQueen.github.io/top-landing/) of my landing page for a template website.
 
 ## about this project
 
